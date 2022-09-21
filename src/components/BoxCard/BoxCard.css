@@ -1,0 +1,7 @@
+.site-card-wrapper {
+	padding: 30px;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	transform: translateY(50%);
+}
